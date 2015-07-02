@@ -1,0 +1,2 @@
+# EasyBuilder
+Java Web快速开发平台，使用SSH后台框架,Bootstraps前端框架，以及一些最先进的web技术，目的在于构建一个安全稳定高效丰富的web站点
